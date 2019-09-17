@@ -3,6 +3,7 @@
 
 This is the implementation of [Convolutional Neural Networks for Sentence Classification (Y.Kim, EMNLP 2014)](http://www.aclweb.org/anthology/D14-1181) on **Pytorch**.
 
+- Updated for Torch 1.2
 
 ## Results
 
@@ -47,6 +48,7 @@ Also you should follow library requirements specified in the **requirements.txt*
     numpy==1.12.1
     gensim==2.3.0
     scikit_learn==0.19.0
+    
 
 
 ## Execution
